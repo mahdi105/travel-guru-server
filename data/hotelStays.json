@@ -1,0 +1,380 @@
+[
+    {
+        "id":1,
+        "location_id": "0b64555c1e1c2f3d3c8daa13e97d44d9",
+        "location": "cox’s Bazar",
+        "image": "/assets/images/image-1.png",
+        "stay_title": "Light bright airy stylish apt & safe peaceful stay",
+        "features": ["4 guests","2 bedrooms","2 beds", "2 baths"],
+        "speciality": "Wifi Air conditioning Kitchen",
+        "cancellation": "Cancellation fexibility availiable",
+        "rating": 4.3,
+        "rating_count": 20,
+        "cost_per_night": 34,
+        "total_cost": 170
+    },
+    {
+        "id":2,
+        "location_id": "0b64555c1e1c2f3d3c8daa13e97d44d9",
+        "location": "cox’s Bazar",
+        "image": "/assets/images/image-2.png",
+        "stay_title": "Light bright airy stylish apt & safe peaceful stay",
+        "features": ["4 guests","2 bedrooms","2 beds", "2 baths"],
+        "speciality": "Wifi Air conditioning Kitchen",
+        "cancellation": "Cancellation fexibility availiable",
+        "rating": 4.3,
+        "rating_count": 20,
+        "cost_per_night": 34,
+        "total_cost": 170
+    },
+    {
+        "id":3,
+        "location_id": "0b64555c1e1c2f3d3c8daa13e97d44d9",
+        "location": "cox’s Bazar",
+        "image": "/assets/images/image-3.png",
+        "stay_title": "Light bright airy stylish apt & safe peaceful stay",
+        "features": ["4 guests","2 bedrooms","2 beds", "2 baths"],
+        "speciality": "Wifi Air conditioning Kitchen",
+        "cancellation": "Cancellation fexibility availiable",
+        "rating": 4.3,
+        "rating_count": 20,
+        "cost_per_night": 34,
+        "total_cost": 170
+    },
+    {
+        "id":4,
+        "location_id": "0b64555c1e1c2f3d3c8daa13e97d44d9",
+        "location": "cox’s Bazar",
+        "image": "/assets/images/image-1.png",
+        "stay_title": "Light bright airy stylish apt & safe peaceful stay",
+        "features": ["4 guests","2 bedrooms","2 beds", "2 baths"],
+        "speciality": "Wifi Air conditioning Kitchen",
+        "cancellation": "Cancellation fexibility availiable",
+        "rating": 4.3,
+        "rating_count": 20,
+        "cost_per_night": 34,
+        "total_cost": 170
+    },
+    {
+        "id":5,
+        "location_id": "0b64555c1e1c2f3d3c8daa13e97d44d9",
+        "location": "cox’s Bazar",
+        "image": "/assets/images/image-2.png",
+        "stay_title": "Light bright airy stylish apt & safe peaceful stay",
+        "features": ["4 guests","2 bedrooms","2 beds", "2 baths"],
+        "speciality": "Wifi Air conditioning Kitchen",
+        "cancellation": "Cancellation fexibility availiable",
+        "rating": 4.3,
+        "rating_count": 20,
+        "cost_per_night": 34,
+        "total_cost": 170
+    },
+    {
+        "id":6,
+        "location_id": "7917a2dc146d35c7a174db95c221d6e8",
+        "location": "Sylhet",
+        "image": "/assets/images/image-3.png",
+        "stay_title": "Light bright airy stylish apt & safe peaceful stay",
+        "features": ["4 guests","2 bedrooms","2 beds", "2 baths"],
+        "speciality": "Wifi Air conditioning Kitchen",
+        "cancellation": "Cancellation fexibility availiable",
+        "rating": 4.3,
+        "rating_count": 20,
+        "cost_per_night": 34,
+        "total_cost": 170
+    },
+    {
+        "id":7,
+        "location_id": "7917a2dc146d35c7a174db95c221d6e8",
+        "location": "Sylhet",
+        "image": "/assets/images/image-1.png",
+        "stay_title": "Light bright airy stylish apt & safe peaceful stay",
+        "features": ["4 guests","2 bedrooms","2 beds", "2 baths"],
+        "speciality": "Wifi Air conditioning Kitchen",
+        "cancellation": "Cancellation fexibility availiable",
+        "rating": 4.3,
+        "rating_count": 20,
+        "cost_per_night": 34,
+        "total_cost": 170
+    },
+    {
+        "id":8,
+        "location_id": "7917a2dc146d35c7a174db95c221d6e8",
+        "location": "Sylhet",
+        "image": "/assets/images/image-2.png",
+        "stay_title": "Light bright airy stylish apt & safe peaceful stay",
+        "features": ["4 guests","2 bedrooms","2 beds", "2 baths"],
+        "speciality": "Wifi Air conditioning Kitchen",
+        "cancellation": "Cancellation fexibility availiable",
+        "rating": 4.3,
+        "rating_count": 20,
+        "cost_per_night": 34,
+        "total_cost": 170
+    },
+    {
+        "id":9,
+        "location_id": "7917a2dc146d35c7a174db95c221d6e8",
+        "location": "Sylhet",
+        "image": "/assets/images/image-3.png",
+        "stay_title": "Light bright airy stylish apt & safe peaceful stay",
+        "features": ["4 guests","2 bedrooms","2 beds", "2 baths"],
+        "speciality": "Wifi Air conditioning Kitchen",
+        "cancellation": "Cancellation fexibility availiable",
+        "rating": 4.3,
+        "rating_count": 20,
+        "cost_per_night": 34,
+        "total_cost": 170
+    },
+    {
+        "id":10,
+        "location_id": "7917a2dc146d35c7a174db95c221d6e8",
+        "location": "Sylhet",
+        "image": "/assets/images/image-1.png",
+        "stay_title": "Light bright airy stylish apt & safe peaceful stay",
+        "features": ["4 guests","2 bedrooms","2 beds", "2 baths"],
+        "speciality": "Wifi Air conditioning Kitchen",
+        "cancellation": "Cancellation fexibility availiable",
+        "rating": 4.3,
+        "rating_count": 20,
+        "cost_per_night": 34,
+        "total_cost": 170
+    },
+    {
+        "id":11,
+        "location_id": "aebc9b17cf642b10f12896c6a86a7b2d",
+        "location": "Bagher Hut",
+        "image": "/assets/images/image-2.png",
+        "stay_title": "Light bright airy stylish apt & safe peaceful stay",
+        "features": ["4 guests","2 bedrooms","2 beds", "2 baths"],
+        "speciality": "Wifi Air conditioning Kitchen",
+        "cancellation": "Cancellation fexibility availiable",
+        "rating": 4.3,
+        "rating_count": 20,
+        "cost_per_night": 34,
+        "total_cost": 170
+    },
+    {
+        "id":12,
+        "location_id": "aebc9b17cf642b10f12896c6a86a7b2d",
+        "location": "Bagher Hut",
+        "image": "/assets/images/image-3.png",
+        "stay_title": "Light bright airy stylish apt & safe peaceful stay",
+        "features": ["4 guests","2 bedrooms","2 beds", "2 baths"],
+        "speciality": "Wifi Air conditioning Kitchen",
+        "cancellation": "Cancellation fexibility availiable",
+        "rating": 4.3,
+        "rating_count": 20,
+        "cost_per_night": 34,
+        "total_cost": 170
+    },
+    {
+        "id":13,
+        "location_id": "aebc9b17cf642b10f12896c6a86a7b2d",
+        "location": "Bagher Hut",
+        "image": "/assets/images/image-1.png",
+        "stay_title": "Light bright airy stylish apt & safe peaceful stay",
+        "features": ["4 guests","2 bedrooms","2 beds", "2 baths"],
+        "speciality": "Wifi Air conditioning Kitchen",
+        "cancellation": "Cancellation fexibility availiable",
+        "rating": 4.3,
+        "rating_count": 20,
+        "cost_per_night": 34,
+        "total_cost": 170
+    },
+    {
+        "id":14,
+        "location_id": "aebc9b17cf642b10f12896c6a86a7b2d",
+        "location": "Bagher Hut",
+        "image": "/assets/images/image-2.png",
+        "stay_title": "Light bright airy stylish apt & safe peaceful stay",
+        "features": ["4 guests","2 bedrooms","2 beds", "2 baths"],
+        "speciality": "Wifi Air conditioning Kitchen",
+        "cancellation": "Cancellation fexibility availiable",
+        "rating": 4.3,
+        "rating_count": 20,
+        "cost_per_night": 34,
+        "total_cost": 170
+    },
+    {
+        "id":15,
+        "location_id": "aebc9b17cf642b10f12896c6a86a7b2d",
+        "location": "Bagher Hut",
+        "image": "/assets/images/image-3.png",
+        "stay_title": "Light bright airy stylish apt & safe peaceful stay",
+        "features": ["4 guests","2 bedrooms","2 beds", "2 baths"],
+        "speciality": "Wifi Air conditioning Kitchen",
+        "cancellation": "Cancellation fexibility availiable",
+        "rating": 4.3,
+        "rating_count": 20,
+        "cost_per_night": 34,
+        "total_cost": 170
+    },
+    {
+        "id":16,
+        "location_id": "3a06796da548b7f9d2321c3f4b4bbad4",
+        "location": "Saint Martin",
+        "image": "/assets/images/image-1.png",
+        "stay_title": "Light bright airy stylish apt & safe peaceful stay",
+        "features": ["4 guests","2 bedrooms","2 beds", "2 baths"],
+        "speciality": "Wifi Air conditioning Kitchen",
+        "cancellation": "Cancellation fexibility availiable",
+        "rating": 4.3,
+        "rating_count": 20,
+        "cost_per_night": 34,
+        "total_cost": 170
+    },
+    {
+        "id":17,
+        "location_id": "3a06796da548b7f9d2321c3f4b4bbad4",
+        "location": "Saint Martin",
+        "image": "/assets/images/image-2.png",
+        "stay_title": "Light bright airy stylish apt & safe peaceful stay",
+        "features": ["4 guests","2 bedrooms","2 beds", "2 baths"],
+        "speciality": "Wifi Air conditioning Kitchen",
+        "cancellation": "Cancellation fexibility availiable",
+        "rating": 4.3,
+        "rating_count": 20,
+        "cost_per_night": 34,
+        "total_cost": 170
+    },
+    {
+        "id":18,
+        "location_id": "3a06796da548b7f9d2321c3f4b4bbad4",
+        "location": "Saint Martin",
+        "image": "/assets/images/image-3.png",
+        "stay_title": "Light bright airy stylish apt & safe peaceful stay",
+        "features": ["4 guests","2 bedrooms","2 beds", "2 baths"],
+        "speciality": "Wifi Air conditioning Kitchen",
+        "cancellation": "Cancellation fexibility availiable",
+        "rating": 4.3,
+        "rating_count": 20,
+        "cost_per_night": 34,
+        "total_cost": 170
+    },
+    {
+        "id":19,
+        "location_id": "3a06796da548b7f9d2321c3f4b4bbad4",
+        "location": "Saint Martin",
+        "image": "/assets/images/image-1.png",
+        "stay_title": "Light bright airy stylish apt & safe peaceful stay",
+        "features": ["4 guests","2 bedrooms","2 beds", "2 baths"],
+        "speciality": "Wifi Air conditioning Kitchen",
+        "cancellation": "Cancellation fexibility availiable",
+        "rating": 4.3,
+        "rating_count": 20,
+        "cost_per_night": 34,
+        "total_cost": 170
+    },
+    {
+        "id":20,
+        "location_id": "3a06796da548b7f9d2321c3f4b4bbad4",
+        "location": "Saint Martin",
+        "image": "/assets/images/image-2.png",
+        "stay_title": "Light bright airy stylish apt & safe peaceful stay",
+        "features": ["4 guests","2 bedrooms","2 beds", "2 baths"],
+        "speciality": "Wifi Air conditioning Kitchen",
+        "cancellation": "Cancellation fexibility availiable",
+        "rating": 4.3,
+        "rating_count": 20,
+        "cost_per_night": 34,
+        "total_cost": 170
+    },
+    {
+        "id":21,
+        "location_id": "08d096d83337d61f06966e417c91d5e5",
+        "location": "Bandarban",
+        "image": "/assets/images/image-3.png",
+        "stay_title": "Light bright airy stylish apt & safe peaceful stay",
+        "features": ["4 guests","2 bedrooms","2 beds", "2 baths"],
+        "speciality": "Wifi Air conditioning Kitchen",
+        "cancellation": "Cancellation fexibility availiable",
+        "rating": 4.3,
+        "rating_count": 20,
+        "cost_per_night": 34,
+        "total_cost": 170
+    },
+    {
+        "id":22,
+        "location_id": "08d096d83337d61f06966e417c91d5e5",
+        "location": "Bandarban",
+        "image": "/assets/images/image-1.png",
+        "stay_title": "Light bright airy stylish apt & safe peaceful stay",
+        "features": ["4 guests","2 bedrooms","2 beds", "2 baths"],
+        "speciality": "Wifi Air conditioning Kitchen",
+        "cancellation": "Cancellation fexibility availiable",
+        "rating": 4.3,
+        "rating_count": 20,
+        "cost_per_night": 34,
+        "total_cost": 170
+    },
+    {
+        "id":23,
+        "location_id": "08d096d83337d61f06966e417c91d5e5",
+        "location": "Bandarban",
+        "image": "/assets/images/image-2.png",
+        "stay_title": "Light bright airy stylish apt & safe peaceful stay",
+        "features": ["4 guests","2 bedrooms","2 beds", "2 baths"],
+        "speciality": "Wifi Air conditioning Kitchen",
+        "cancellation": "Cancellation fexibility availiable",
+        "rating": 4.3,
+        "rating_count": 20,
+        "cost_per_night": 34,
+        "total_cost": 170
+    },
+    {
+        "id":24,
+        "location_id": "08d096d83337d61f06966e417c91d5e5",
+        "location": "Bandarban",
+        "image": "/assets/images/image-3.png",
+        "stay_title": "Light bright airy stylish apt & safe peaceful stay",
+        "features": ["4 guests","2 bedrooms","2 beds", "2 baths"],
+        "speciality": "Wifi Air conditioning Kitchen",
+        "cancellation": "Cancellation fexibility availiable",
+        "rating": 4.3,
+        "rating_count": 20,
+        "cost_per_night": 34,
+        "total_cost": 170
+    },
+    {
+        "id":25,
+        "location_id": "08d096d83337d61f06966e417c91d5e5",
+        "location": "Bandarban",
+        "image": "/assets/images/image-1.png",
+        "stay_title": "Light bright airy stylish apt & safe peaceful stay",
+        "features": ["4 guests","2 bedrooms","2 beds", "2 baths"],
+        "speciality": "Wifi Air conditioning Kitchen",
+        "cancellation": "Cancellation fexibility availiable",
+        "rating": 4.3,
+        "rating_count": 20,
+        "cost_per_night": 34,
+        "total_cost": 170
+    }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

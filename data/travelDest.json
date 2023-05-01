@@ -1,0 +1,27 @@
+[
+    {
+        "location_id": "0b64555c1e1c2f3d3c8daa13e97d44d9",
+        "location": "cox’s Bazar",
+        "image": "/assets/images/cox'sbazar.png"
+    },
+    {
+        "location_id": "7917a2dc146d35c7a174db95c221d6e8",
+        "location": "Sylhet",
+        "image": "/assets/images/sylhet.png"
+    },
+    {
+        "location_id": "aebc9b17cf642b10f12896c6a86a7b2d",
+        "location": "Bagher Hut",
+        "image": "/assets/images/sylhet.png"
+    },
+    {
+        "location_id": "3a06796da548b7f9d2321c3f4b4bbad4",
+        "location": "Saint Martin",
+        "image": "/assets/images/cox'sbazar.png"
+    },
+    {
+        "location_id": "08d096d83337d61f06966e417c91d5e5",
+        "location": "Bandarban",
+        "image": "/assets/images/bandarban.png"  
+    }
+]
